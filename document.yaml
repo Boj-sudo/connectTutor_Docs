@@ -1,0 +1,13 @@
+project:
+    name: SocraTutor
+    
+content:
+    - source: intro.md
+
+theme:
+    headings:
+        font-family: Open Sans
+        color: "#000000"
+    text:
+        font-family: Open Sans
+        color: "#000000"
